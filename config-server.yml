@@ -23,7 +23,7 @@ spring:
   profiles: test
   
 msaconfig:
-  greeting: "welcome to test server 입니다."
+  greeting: "welcome to test server."
 
 ---
 
